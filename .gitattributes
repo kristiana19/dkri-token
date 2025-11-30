@@ -1,0 +1,7 @@
+# ignore frontend code in github statistics
+src/token_assets/* linguist-vendored
+dist/* linguist-vendored
+webpack.config.js linguist-vendored
+package.json linguist-vendored
+package-lock.json linguist-vendored
+tsconfig.json linguist-vendored
