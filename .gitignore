@@ -13,3 +13,9 @@
 # frontend code
 node_modules/
 dist/
+
+# dfx generated declarations
+src/declarations/
+
+package-lock.json
+
