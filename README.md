@@ -1,3 +1,13 @@
+# DKRI Token — IC Project 💰 
+
+**The frontend is styled in an old-school Windows XP / Win95 fashion — because I wanted it to feel nostalgic and vintage.**
+**This project implements my first Motoko token on the Internet Computer: DKRI.**
+
+##🖼️ Preview
+<img width="1380" height="691" alt="image" src="https://github.com/user-attachments/assets/66f233b4-1646-4e6d-bb56-8998984bbc59" />
+
+
+
 # Check your Balance
 
 1. Find out your principal id:
