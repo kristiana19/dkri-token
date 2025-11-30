@@ -1,7 +1,13 @@
-# ignore frontend code in github statistics
-src/token_assets/* linguist-vendored
-dist/* linguist-vendored
+# Ignore frontend React code in GitHub language stats
+src/token_assets/src/* linguist-vendored
+src/token_assets/src/components/* linguist-vendored
+src/token_assets/assets/* linguist-vendored
+
+# Ignore build + config JS
 webpack.config.js linguist-vendored
 package.json linguist-vendored
 package-lock.json linguist-vendored
 tsconfig.json linguist-vendored
+
+# Ignore compiled output
+dist/* linguist-vendored
